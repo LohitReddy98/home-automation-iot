@@ -19,7 +19,7 @@
 #include <events/mbed_events.h>
 #include <mbed.h>
 
-const static char DEVICE_NAME[] = "Ashraf's iot";
+const static char DEVICE_NAME[] = "lohit's iot";
 
 static EventQueue event_queue(/* event count */ 10 * EVENTS_EVENT_SIZE);
 
