@@ -1,0 +1,4 @@
+BUILD
+.mbed
+mbed-os
+TARGET_CORDIO_BLUENRG
